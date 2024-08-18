@@ -12,9 +12,9 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src="![image](https://github.com/user-attachments/assets/bdda82ef-9c60-4c6f-b11a-e915f51d2131)" width="100%">
-</p>
+
+![image](https://github.com/user-attachments/assets/5fd72c2f-19a3-4fd7-baa0-af302a495668)
+
 
 ## 🚀 Tecnologias
 
