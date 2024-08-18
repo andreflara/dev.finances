@@ -12,8 +12,7 @@
 
 <br>
 
-
-![image](https://github.com/user-attachments/assets/5fd72c2f-19a3-4fd7-baa0-af302a495668)
+![image](https://github.com/user-attachments/assets/4285977c-e365-4017-9708-a342d89fca27)
 
 
 ## 🚀 Tecnologias
