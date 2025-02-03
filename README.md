@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Dev.Finance é um projeto para auxiliar no controle das finanças.
 
-- [Visite o projeto online](https://oandrezito.github.io/dev.finances/)
+- [Visite o projeto online](https://andreflara.github.io/dev.finances/)
 
 ## :memo: Licença
 
